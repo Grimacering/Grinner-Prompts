@@ -8,3 +8,4 @@ A fun way to mess with ChatGPT is with these type of prompts, and adds a bit mor
 
 ## It seems your prompt does not work
 If one of the prompts here does not work, it means one thing, or its non functional (not on purpose lol) since i released it, or it became non functional after some update on ChatGPT.
+Your you are just unlucky and have to send it to ChatGPT 3 more times so it will work...
